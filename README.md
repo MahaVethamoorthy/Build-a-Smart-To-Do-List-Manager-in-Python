@@ -27,7 +27,8 @@ Make sure Python 3 is installed on your computer (Python 3.8 or above is best).
 Download or clone the project from GitHub:
 
 ```bash
-git clone https://github.com/your-username/todo-app.git
+git clone https://github.com/MahaVethamoorthy/Build-a-Smart-To-Do-List-Manager-in-Python.git
+
 ```
 
 #### ✅ Step 3: Open the folder in terminal
