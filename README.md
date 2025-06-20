@@ -38,6 +38,36 @@ python main.py
 ---
 ## 🧪 Sample Inputs and Outputs
 
+![image alt](screenshots/view_tasks.png/1.png)
+
+![image alt]()
+
+![image alt]()
+
+![image alt]()
+
+![image alt]()
+
+![image alt]()
+
+![image alt]()
+
+![image alt]()
+
+![image alt]()
+
+![image alt]()
+
+![image alt]()
+
+![image alt]()
+
+![image alt]()
+
+![image alt]()
+
+![image alt]()
+
 ![image alt]()
 
 ---
