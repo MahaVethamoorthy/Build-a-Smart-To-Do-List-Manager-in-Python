@@ -20,18 +20,25 @@ Everything is saved automatically in a file (`tasks.json`) so your tasks are nev
 
 ## ▶️ How to Run This Program
 
-### Step 1: Install Python
+#### ✅ Step 1: Install Python
 Make sure Python 3 is installed on your computer (Python 3.8 or above is best).
 
-### Step 2: Download the Project
+#### ✅ Step 2: Download the Project
 Download or clone the project from GitHub:
 
 ```bash
 git clone https://github.com/your-username/todo-app.git
 ```
+
+#### ✅ Step 3: Open the folder in terminal
+Navigate to the folder where your files are:
+
 ```bash
-cd todo-app
+cd path/todo-app
 ```
+#### ✅ Step 4: Run the Program
+Use this command to run the Python file:
+
 ```bash
 python main.py
 ```
