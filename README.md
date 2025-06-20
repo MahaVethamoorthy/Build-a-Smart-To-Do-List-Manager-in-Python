@@ -40,35 +40,21 @@ python main.py
 
 ![image alt](screenshots/view_tasks.png/1.png)
 
-![image alt]()
+![image alt](screenshots/view_tasks.png/2.png)
 
-![image alt]()
+![image alt](screenshots/view_tasks.png/3.png)
 
-![image alt]()
+![image alt](screenshots/view_tasks.png/4.png)
 
-![image alt]()
+![image alt](screenshots/view_tasks.png/5.png)
 
-![image alt]()
+![image alt](screenshots/view_tasks.png/7.png)
 
-![image alt]()
+![image alt](screenshots/view_tasks.png/13.png)
 
-![image alt]()
+![image alt](screenshots/view_tasks.png/14.png)
 
-![image alt]()
-
-![image alt]()
-
-![image alt]()
-
-![image alt]()
-
-![image alt]()
-
-![image alt]()
-
-![image alt]()
-
-![image alt]()
+![image alt](screenshots/view_tasks.png/16.png)
 
 ---
 
