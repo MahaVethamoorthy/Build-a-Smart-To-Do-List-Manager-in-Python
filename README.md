@@ -46,21 +46,21 @@ python main.py
 ## 🧪 Sample Inputs and Outputs
 
 ![image alt](screenshots/view_tasks.png/1.png)
-
+#### ➕ Add a task
 ![image alt](screenshots/view_tasks.png/2.png)
-
+#### ✅ Mark as completed
 ![image alt](screenshots/view_tasks.png/3.png)
-
+#### 🗑️ Delete a task
 ![image alt](screenshots/view_tasks.png/4.png)
-
+#### 📋 View all tasks
 ![image alt](screenshots/view_tasks.png/5.png)
-
+#### 🔍 Filter tasks
 ![image alt](screenshots/view_tasks.png/7.png)
-
+#### 🔎 Search task by keyword
 ![image alt](screenshots/view_tasks.png/13.png)
-
+#### 📄 Export summary report
 ![image alt](screenshots/view_tasks.png/14.png)
-
+#### 🚪 Exit the application
 ![image alt](screenshots/view_tasks.png/16.png)
 
 ---
