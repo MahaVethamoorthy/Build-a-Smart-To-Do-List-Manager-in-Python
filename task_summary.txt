@@ -1,0 +1,69 @@
+📋 Task Summary Report
+========================
+
+🆔 ID: 1
+📝 Title: Complete internship assessment
+📅 Due Date: 21/06/2025
+🎯 Priority: High
+📌 Status: Completed
+
+🆔 ID: 2
+📝 Title: Buy groceries
+📅 Due Date: 21/06/2025
+🎯 Priority: Medium
+📌 Status: Completed
+
+🆔 ID: 3
+📝 Title: Prepare resume
+📅 Due Date: 25/06/2025
+🎯 Priority: High
+📌 Status: Pending
+
+🆔 ID: 4
+📝 Title: Study for cybersecurity quiz
+📅 Due Date: 24/06/2025
+🎯 Priority: High
+📌 Status: Pending
+
+🆔 ID: 5
+📝 Title: Water indoor plants
+📅 Due Date: 21/06/2025
+🎯 Priority: Low
+📌 Status: Completed
+
+🆔 ID: 6
+📝 Title: Clean downloads folder
+📅 Due Date: 18/06/2025
+🎯 Priority: Medium
+📌 Status: Completed
+
+🆔 ID: 7
+📝 Title: Email project supervisor
+📅 Due Date: 20/06/2025
+🎯 Priority: High
+📌 Status: Completed
+
+🆔 ID: 8
+📝 Title: Practice Python problems
+📅 Due Date: 23/06/2025
+🎯 Priority: Medium
+📌 Status: Pending
+
+🆔 ID: 9
+📝 Title: Learn about Phishing Attacks
+📅 Due Date: 21/06/2025
+🎯 Priority: High
+📌 Status: Pending
+
+🆔 ID: 10
+📝 Title: Read OWASP Top 10 List
+📅 Due Date: 25/06/2025
+🎯 Priority: Low
+📌 Status: Pending
+
+🆔 ID: 11
+📝 Title: Practice Basic Linux Commands
+📅 Due Date: 24/06/2025
+🎯 Priority: Medium
+📌 Status: Pending
+

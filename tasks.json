@@ -1,0 +1,112 @@
+[
+    {
+        "ID": 1,
+        "Title": "Complete internship assessment",
+        "Description": "Finish and polish the smart to-do list manager",
+        "Due Date": "2025-06-21",
+        "Priority": "High",
+        "Status": "Completed",
+        "Created At": "2025-06-20 17:21:27",
+        "Completed At": "2025-06-20 17:29:24"
+    },
+    {
+        "ID": 2,
+        "Title": "Buy groceries",
+        "Description": "Milk, eggs, bread, and veggies",
+        "Due Date": "2025-06-21",
+        "Priority": "Medium",
+        "Status": "Completed",
+        "Created At": "2025-06-19 14:20:00",
+        "Completed At": "2025-06-20 18:10:00"
+    },
+    {
+        "ID": 3,
+        "Title": "Prepare resume",
+        "Description": "Update with recent internship projects",
+        "Due Date": "2025-06-25",
+        "Priority": "High",
+        "Status": "Pending",
+        "Created At": "2025-06-20 09:15:00",
+        "Completed At": ""
+    },
+    {
+        "ID": 4,
+        "Title": "Study for cybersecurity quiz",
+        "Description": "Review OWASP Top 10 and SOC terms",
+        "Due Date": "2025-06-24",
+        "Priority": "High",
+        "Status": "Pending",
+        "Created At": "2025-06-20 11:45:00",
+        "Completed At": ""
+    },
+    {
+        "ID": 5,
+        "Title": "Water indoor plants",
+        "Description": "Cactus and spider plant",
+        "Due Date": "2025-06-21",
+        "Priority": "Low",
+        "Status": "Completed",
+        "Created At": "2025-06-20 10:30:00",
+        "Completed At": "2025-06-20 19:55:52"
+    },
+    {
+        "ID": 6,
+        "Title": "Clean downloads folder",
+        "Description": "Organize files and delete duplicates",
+        "Due Date": "2025-06-18",
+        "Priority": "Medium",
+        "Status": "Completed",
+        "Created At": "2025-06-17 12:00:00",
+        "Completed At": "2025-06-20 20:32:24"
+    },
+    {
+        "ID": 7,
+        "Title": "Email project supervisor",
+        "Description": "Send weekly update and questions",
+        "Due Date": "2025-06-20",
+        "Priority": "High",
+        "Status": "Completed",
+        "Created At": "2025-06-19 15:00:00",
+        "Completed At": "2025-06-20 16:20:00"
+    },
+    {
+        "ID": 8,
+        "Title": "Practice Python problems",
+        "Description": "Solve 5 problems on LeetCode",
+        "Due Date": "2025-06-23",
+        "Priority": "Medium",
+        "Status": "Pending",
+        "Created At": "2025-06-20 19:30:00",
+        "Completed At": ""
+    },
+    {
+        "ID": 9,
+        "Title": "Learn about Phishing Attacks",
+        "Description": "Watch a YouTube video that explains how phishing scams work",
+        "Due Date": "2025-06-21",
+        "Priority": "High",
+        "Status": "Pending",
+        "Created At": "2025-06-20 19:58:44",
+        "Completed At": ""
+    },
+    {
+        "ID": 10,
+        "Title": "Read OWASP Top 10 List",
+        "Description": "Go through the OWASP Top 10 web vulnerabilities summary",
+        "Due Date": "2025-06-25",
+        "Priority": "Low",
+        "Status": "Pending",
+        "Created At": "2025-06-20 20:09:48",
+        "Completed At": ""
+    },
+    {
+        "ID": 11,
+        "Title": "Practice Basic Linux Commands",
+        "Description": "Try 10 simple terminal commands on Kali LinuxTry 10 simple terminal commands on Kali Linux",
+        "Due Date": "2025-06-24",
+        "Priority": "Medium",
+        "Status": "Pending",
+        "Created At": "2025-06-20 20:31:41",
+        "Completed At": ""
+    }
+]
