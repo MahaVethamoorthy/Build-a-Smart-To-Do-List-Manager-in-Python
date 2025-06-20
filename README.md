@@ -34,7 +34,7 @@ git clone https://github.com/your-username/todo-app.git
 Navigate to the folder where your files are:
 
 ```bash
-cd path/todo-app
+cd path/Build-a-Smart-To-Do-List-Manager-in-Python-main
 ```
 #### ✅ Step 4: Run the Program
 Use this command to run the Python file:
