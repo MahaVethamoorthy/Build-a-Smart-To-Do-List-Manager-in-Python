@@ -1,4 +1,4 @@
-# 📋 Smart To-Do List Manager (Python CLI)
+# 📋 Build a Smart To-Do List Manager in Python
 
 ## 🧠 What This Program Does
 
